@@ -23,7 +23,7 @@ Aquí algunas de las tecnologías y herramientas con las que trabajo o que estoy
 
 ### **📫 ¿Cómo contactarme?**
 
-* **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/sim%C3%B3n-rond%C3%B3n-mart%C3%ADnez-6b8a64233/)
+* **LinkedIn:** [Simón Rondón Martínez](https://www.linkedin.com/in/sim%C3%B3n-rond%C3%B3n-mart%C3%ADnez-6b8a64233/)
 * **Email:** [sipero2013@example.com](sipero2013@example.com)
 
 ---
