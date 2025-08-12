@@ -12,9 +12,9 @@ Soy un desarrollador de software, estudiante de informática,  apasionado por  e
 
 Aquí algunas de las tecnologías y herramientas con las que trabajo o que estoy aprendiendo:
 
-* **Lenguajes:** Python, JavaScript,[otros]
-* **Frameworks/Librerías:** React, FastApi, Nextjs, Tailwind CSS, [otros]
-* **Herramientas:** Git, VS Code, [otros]
+* **Lenguajes:** Python, JavaScript
+* **Frameworks/Librerías:** React, FastApi, Nextjs, Tailwind CSS
+* **Herramientas:** Git, VS Code
 * **Aprendiendo actualmente:** actualmente estoy aprendiendo docker, bases de datos, y test unitarios.
 
 ---
